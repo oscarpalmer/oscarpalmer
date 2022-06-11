@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, everyone &ndash; I am Oscar 😊
 
 <!--
 **oscarpalmer/oscarpalmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
